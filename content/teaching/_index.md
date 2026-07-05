@@ -17,6 +17,8 @@ title: "Teaching"
 
 *Graduate Research and Teaching Assistant*, USA (Aug. 2023–Present)
 
+- Instructor of Record, Hospitality Revenue Management (HTM 4454)
+  - Prepared lectures on revenue management principles, demand forecasting, and pricing strategies
 - Instructor of Record, International Tourism (HTM 4484)
   - Designed and delivered lectures on global tourism systems, destination competitiveness, and consumer behavior
   - Led in-class discussions and interactive activities
@@ -35,7 +37,4 @@ title: "Teaching"
 ## Courses Prepared to Teach
 
 - International Tourism
-- Consumer Behavior in Hospitality and Tourism
-- Hospitality Data Analytics
-- Tourism Economics
-- Research Methods
+- Hospitality Revenue Management

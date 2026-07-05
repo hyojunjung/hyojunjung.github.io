@@ -37,9 +37,9 @@ draft: false
 
 **Virginia Tech** · Graduate Research and Teaching Assistant · Aug. 2023–Present
 
+- Instructor of Record, Hospitality Revenue Management (HTM 4454)
 - Instructor of Record, International Tourism (HTM 4484)
 - Guest lecturing a chapter titled “Technology in Hotel Operations” in Lodging Management (HTM 3524).
-- Assisted with literature reviews, reference management, instructional material development, and grading across multiple courses:
 
 ---
 
