@@ -48,6 +48,6 @@ Consumer behavior in tourism and hospitality; Tourism economics; Strategic manag
 ## Conference Presentations
 
 - **Jung, H.**, & Nicolau, J. L. (2026, July). *Do Generative AI Disclosures Influence Market Reactions in the Foodservice Industry?* Poster presented at the 2026 ICHRIE Global Conference, Las Vegas, NV, United States.
-- **Jung, H.**, & Nicolau, J. L. (2026, May). *Can Hallyu Drive Tourism Recovery? Evidence from Post-Pandemic Korea.* Stand up presented at the 24th APacCHRIE, Osaka, Japan.
+- **Jung, H.**, & Nicolau, J. L. (2026, May). *Can Hallyu Drive Tourism Recovery? Evidence from Post-Pandemic Korea.* Oral presented at the 24th APacCHRIE, Osaka, Japan.
 - **Jung, H.**, & Nicolau, J. L. (2026, April). *Improving Tourism Demand Forecast Accuracy: Integrating Google Trends with Machine-Learning-Augmented SARIMAX.* Poster presented at the 2nd Workshop on Informatics, Data Science, and Economics in Hospitality and Tourism Research (WIDE-HTR), Philadelphia, PA, United States.
 - **Jung, H.**, & Nicolau, J. L. (2024, January). *How K-pop agency’s YouTube brand channel affects Korea’s national image and intention to visit.* Poster presented at the 29th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Miami, FL, United States.

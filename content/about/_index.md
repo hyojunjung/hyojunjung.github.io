@@ -29,7 +29,7 @@ draft: false
 | **Ph.D. in Business Administration (Hospitality and Tourism Management)** | Virginia Tech · Expected 2027 |
 | **Master in Tourism Management** | Sejong University · 2022 |
 | **Bachelor of Science in Physics** | Hanyang University · 2015 |
-| **Exchage Program in Business Administration** | ESC Rennes School of Business · 2013 |
+| **Exchange Program in Business Administration** | ESC Rennes School of Business · 2013 |
 
 ---
 
@@ -37,7 +37,7 @@ draft: false
 
 **Virginia Tech** · Graduate Research and Teaching Assistant · Aug. 2023–Present
 
-- Instructor of Record, Hospitality Revenue Management (HTM 4454)
+- Instructor of Record, Hospitality Revenue Management (HTM 4454), Fall 2026 (upcoming)
 - Instructor of Record, International Tourism (HTM 4484)
 - Guest lecturing a chapter titled “Technology in Hotel Operations” in Lodging Management (HTM 3524).
 
