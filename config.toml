@@ -42,6 +42,11 @@ theme = "PaperMod"
   weight = 2
 
 [[menu.main]]
-  name = "CV"
-  url = "/files/cv_hyojunjung_mar26.pdf"
+  name = "Teaching"
+  url = "/teaching/"
   weight = 3
+
+[[menu.main]]
+  name = "CV"
+  url = "/files/cv_hyojunjung.pdf"
+  weight = 4
