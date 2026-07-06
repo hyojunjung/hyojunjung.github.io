@@ -19,11 +19,11 @@ title: "Teaching"
 
 - Instructor of Record, Hospitality Revenue Management (HTM 4454), Fall 2026 (upcoming)
   - Preparing lectures on revenue management principles, demand forecasting, and pricing strategies
-- Instructor of Record, International Tourism (HTM 4484)
+- Instructor of Record, International Tourism (HTM 4484), Spring 2026
   - Designed and delivered lectures on global tourism systems, destination competitiveness, and consumer behavior
   - Led in-class discussions and interactive activities
   - Developed and graded assessments (quizzes, assignments, group projects)
-- Guest lecturing a chapter titled “Technology in Hotel Operations” in Lodging Management (HTM 3524).
+- Guest lecturing a chapter titled “Technology in Hotel Operations” in Lodging Management (HTM 3524), Fall 2024, Spring 2025, Fall 2025, Spring 2026.
 - Assisted with literature reviews, reference management, instructional material development, and grading across multiple courses:
   - Hospitality Revenue Management (HTM 4454)
   - Hospitality Market Data Analysis (HTM 4514)
