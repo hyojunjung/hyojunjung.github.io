@@ -29,7 +29,7 @@ Consumer behavior in tourism and hospitality; Tourism economics; Strategic manag
 
 ## Manuscripts Under Review
 
-- Campayo-Sanchez, F, **Jung, H.**, Sharma, A., & Nicolau, J. L. (2026). Scoring beyond the field: FIFA World Cup victories and destination demand. Under review at *Annals of Tourism Research*.
+- Campayo-Sanchez, F, **Jung, H.**, Sharma, A., & Nicolau, J. L. (2026). Scoring beyond the field: FIFA World Cup victories and destination demand. Under review at *Journal of Travel Research*.
 - Campayo-Sanchez, F, **Jung, H.**, Kim, Y. E., Sharma, A., Singal, M., & Nicolau, J. L. (2026). Mergers and acquisitions in tourism and hospitality: Winner's curse and ideological divergence. Revise and resubmit (invited) at *Tourism Management*.
 - Campayo-Sanchez, F, **Jung, H.**, Kim, Y. E., & Nicolau, J. L. (2026). When crises strike the skies: Airline accidents as economic shocks and drivers of resilience. Revise and resubmit at *Tourism Economics*.
 - **Jung, H.**, & Nicolau, J. L. (2026). Asymmetric effects of customer satisfaction on firm values: Loss aversion across tourism business models. Under review at *Annals of Tourism Research*.
