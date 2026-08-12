@@ -28,7 +28,7 @@ draft: false
 |---|---|
 | **Ph.D. in Business Administration (Hospitality and Tourism Management)** | Virginia Tech · Expected 2027 |
 | **Master in Tourism Management** | Sejong University · 2022 |
-| **Bachelor of Science in Physics** | Hanyang University · 2015 |
+| **Bachelor of Science in Physics<br>Bachelor of Arts in Economics & Finance** | Hanyang University · 2015 |
 | **Exchange Program in Business Administration** | ESC Rennes School of Business · 2013 |
 
 ---
