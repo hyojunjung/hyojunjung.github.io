@@ -3,3 +3,6 @@ WORKFLOW.md
 # macOS
 .DS_Store
 **/.DS_Store
+
+# 2026-04 이후 배포는 GitHub Actions 가 러너에서 빌드한다. 로컬 public/ 은 잔재.
+public/
