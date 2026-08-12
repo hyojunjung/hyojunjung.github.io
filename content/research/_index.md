@@ -29,12 +29,12 @@ Consumer behavior in tourism and hospitality; Tourism economics; Strategic manag
 
 ## Manuscripts Under Review
 
-- Campayo-Sanchez, F, **Jung, H.**, Sharma, A., & Nicolau, J. L. (2026). Scoring beyond the field: FIFA World Cup victories and destination demand. Under review at *Journal of Travel Research*.
-- Campayo-Sanchez, F, **Jung, H.**, Kim, Y. E., Sharma, A., Singal, M., & Nicolau, J. L. (2026). Mergers and acquisitions in tourism and hospitality: Winner's curse and ideological divergence. Revise and resubmit (invited) at *Tourism Management*.
-- Campayo-Sanchez, F, **Jung, H.**, Kim, Y. E., & Nicolau, J. L. (2026). When crises strike the skies: Airline accidents as economic shocks and drivers of resilience. Revise and resubmit at *Tourism Economics*.
-- **Jung, H.**, & Nicolau, J. L. (2026). Asymmetric effects of customer satisfaction on firm values: Loss aversion across tourism business models. Under review at *Annals of Tourism Research*.
+- Campayo-Sanchez, F, **Jung, H.**, Kim, Y. E., Sharma, A., Singal, M., & Nicolau, J. L. (2026). Mergers and acquisitions in tourism and hospitality: Winner's curse and ideological divergence. Revise and resubmit at *Tourism Management*.
+- Campayo-Sanchez, F, **Jung, H.**, Kim, Y. E., & Nicolau, J. L. (2026). When crises strike the skies: Airline accidents as economic shocks. Revise and resubmit at *Tourism Economics*.
 - **Jung, H**., & Nicolau, J. L. (2026). The IKEA effect in tourism: The role of pre-trip analytical planning in the formation of tourist satisfaction. Revise and resubmit at *Journal of Destination Marketing and Management*.
-- **Jung, H.**, Campayo-Sanchez, F, Sellers, R., & Nicolau, J. L. (2026). Value of hotel technological alliances: in search of boundary conditions. Under review at *Journal of Hospitality & Tourism Management*.
+- Campayo-Sanchez, F, **Jung, H.**, Sharma, A., & Nicolau, J. L. (2026). Scoring beyond the field: FIFA World Cup victories and destination demand. Under review.
+- **Jung, H.**, & Nicolau, J. L. (2026). Asymmetric effects of satisfaction on firm value: Loss aversion across tourism business models. Under review.
+- **Jung, H.**, Campayo-Sanchez, F, Sellers, R., & Nicolau, J. L. (2026). Value of hotel strategic alliances: In search of boundary conditions. Under review.
 
 ---
 
