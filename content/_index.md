@@ -7,7 +7,7 @@ title: "Hyojun Jung"
     alt="Hyojun Jung"
     style="width:150px; height:150px; border-radius:50%; object-fit:cover; display:block; margin: 0 auto 1.2rem;" />
   <h2>Hyojun Jung</h2>
-  <p style="margin:0 0 0.8rem;">PhD Candidate · Hospitality & Tourism Management · Virginia Tech</p>
+  <p style="margin:0 0 0.8rem;">PhD Candidate · Hospitality and Tourism Management · Virginia Tech</p>
   <p style="margin:0 0 0.8rem;">I am a data-driven business researcher in tourism and hospitality.</p>
   <p style="margin:0;">
     <a href="mailto:hyojunjung@vt.edu">hyojunjung@vt.edu</a> &nbsp;|&nbsp;

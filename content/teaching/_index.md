@@ -15,22 +15,35 @@ title: "Teaching"
 
 ### Virginia Tech
 
-*Graduate Research and Teaching Assistant*, USA (Aug. 2023–Present)
+Blacksburg, VA, United States (Aug. 2023–Present)
 
-- Instructor of Record, Hospitality Revenue Management (HTM 4454), Fall 2026 (upcoming)
-  - Preparing lectures on revenue management principles, demand forecasting, and pricing strategies
-- Instructor of Record, International Tourism (HTM 4484), Spring 2026
-  - Designed and delivered lectures on global tourism systems, destination competitiveness, and consumer behavior
-  - Led in-class discussions and interactive activities
-  - Developed and graded assessments (quizzes, assignments, group projects)
-- Guest lecturing a chapter titled “Technology in Hotel Operations” in Lodging Management (HTM 3524), Fall 2024, Spring 2025, Fall 2025, Spring 2026.
-- Assisted with literature reviews, reference management, instructional material development, and grading across multiple courses:
-  - Hospitality Revenue Management (HTM 4454)
-  - Hospitality Market Data Analysis (HTM 4514)
-  - Lodging Management (HTM 3524)
-  - Event Management (HTM 3424)
-  - Wedding Planning and Management (HTM 3984)
-- Mentored a master’s student in research design and data analysis
+
+**Instructor of Record**
+
+- HTM 4454 — Hospitality Revenue Management
+  - Teach revenue management as a sequence of lodging decisions involving demand, pricing, inventory, and distribution
+  - Build each module around hands-on analyses of industry data, covering performance measurement, forecasting, pricing, inventory, displacement, and channel decisions
+  - Use STR benchmarking reports and case discussions so students practice interpreting performance and justifying revenue-management decisions
+- HTM 4484 — International Tourism
+  - Designed and taught a data-driven curriculum covering international tourism statistics, origin-destination flows, destination competitiveness, and technologies changing the industry
+  - Led hands-on lab sessions in which students retrieved data from international tourism databases, analyzed it, and created visualizations
+  - Guided student teams through a data-informed destination analysis and final presentation
+  - Received ratings above college and department means on all seven core course and instructor items; overall teaching effectiveness was 5.60/6.00 (college: 5.25; department: 5.14), with a 94% response rate
+
+**Guest Lecturer**
+
+- HTM 3524 — Lodging Management, "Technology in Hotel Operations,"
+  - Invited for five consecutive semesters
+  - Use live demonstrations of generative AI tools and AI-assisted data analysis and visualization to examine applications in hotel operations and the guest experience
+
+**Graduate Teaching Assistant**
+
+- Supported course development, instructional materials, and assessment in Hospitality Revenue Management (HTM 4454), Hospitality Market Data Analysis (HTM 4514), Lodging Management (HTM 3524), Event Management (HTM 3424), and Wedding Planning and Management (HTM 3984)
+
+**Student Mentoring and Advising**
+
+- Mentored one master's student on a systematic review, from search procedures and inclusion criteria through research design
+- Guided undergraduate teams in analyzing STR industry data and presenting their findings (HTM 4514)
 
 ---
 
@@ -38,3 +51,6 @@ title: "Teaching"
 
 - International Tourism
 - Hospitality Revenue Management
+- Hospitality Data Analytics
+- Tourism Economics
+- Research Methods in Hospitality and Tourism
