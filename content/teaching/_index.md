@@ -25,7 +25,7 @@ Blacksburg, VA, United States (Aug. 2023–Present)
   - Build each module around hands-on analyses of industry data, covering performance measurement, forecasting, pricing, inventory, displacement, and channel decisions
   - Use STR benchmarking reports and case discussions so students practice interpreting performance and justifying revenue-management decisions
 - HTM 4484 — International Tourism
-  - Designed and taught a data-driven curriculum covering international tourism statistics, origin-destination flows, destination competitiveness, and technologies changing the industry
+  - Designed and taught a data-driven curriculum covering international tourism statistics, origin-destination flows, and destination competitiveness
   - Led hands-on lab sessions in which students retrieved data from international tourism databases, analyzed it, and created visualizations
   - Guided student teams through a data-informed destination analysis and final presentation
   - Received ratings above college and department means on all seven core course and instructor items; overall teaching effectiveness was 5.60/6.00 (college: 5.25; department: 5.14), with a 94% response rate
