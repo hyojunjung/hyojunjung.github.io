@@ -34,7 +34,7 @@ Behavioral economics and consumer decision-making; AI and technology-enabled ser
 
 ## Manuscripts Under Review
 
-**[9]** **Jung, H.** (2026). The IKEA effect in tourism: The role of pre-trip analytical planning in the formation of tourist satisfaction. Under review at *Tourism Economics*.
+**[9]** **Jung, H.** (2026). The IKEA effect in tourism: The role of pre-trip analytical planning in the formation of tourist satisfaction. Under review at *Tourism Management Perspectives*.
 
 **[8]** **Jung, H.**, & Nicolau, J. L. (2026). Asymmetric effects of customer satisfaction on firm value: Loss aversion across tourism business models. Under review at *Journal of Travel Research*.
 
@@ -42,7 +42,7 @@ Behavioral economics and consumer decision-making; AI and technology-enabled ser
 
 **[6]** **Jung, H.**, Campayo, F., Sellers, R., & Nicolau, J. L. (2026). Value of hotel strategic alliances: In search of boundary conditions. Under review at *International Journal of Contemporary Hospitality Management*.
 
-**[5]** Campayo, F., **Jung, H.**, Kim, Y. E., Sharma, A., Singal, M., & Nicolau, J. L. (2026). Mergers and acquisitions in tourism and hospitality: Winner's curse and ideological divergence. Revise and resubmit (2nd round) at *Tourism Management*.
+**[5]** Campayo, F., **Jung, H.**, Kim, Y. E., Sharma, A., Singal, M., & Nicolau, J. L. (2026). Mergers and acquisitions in tourism and hospitality: Winner's curse and ideological divergence. Revise and resubmit (3rd round) at *Tourism Management*.
 
 **[4]** Campayo, F., **Jung, H.**, Kim, Y. E., & Nicolau, J. L. (2026). When crises strike the skies: Airline accidents as economic shocks. Revise and resubmit (4th round) at *Tourism Economics*.
 

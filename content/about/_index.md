@@ -54,6 +54,7 @@ draft: false
 
 ### Grants & Scholarships
 
+- Michael D. Olsen Memorial Graduate Fellowship, Virginia Tech, 2026 ($2,000)
 - Pamplin Doctoral Summer Research Grant, Pamplin College of Business, Virginia Tech, 2026 ($7,500)
 - Ph.D. Summer Research Grant, Howard Feiertag Department of Hospitality and Tourism Management, Virginia Tech, 2024–2025 ($6,000 per summer)
 - Graduate Research and Teaching Assistantship, Howard Feiertag Department of Hospitality and Tourism Management, Pamplin College of Business, Virginia Tech, 2023–present
