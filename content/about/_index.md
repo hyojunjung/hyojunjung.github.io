@@ -55,7 +55,7 @@ draft: false
 ### Grants & Scholarships
 
 - Michael D. Olsen Memorial Graduate Fellowship, Virginia Tech, 2026 ($2,000)
-- Pamplin Doctoral Summer Research Grant, Pamplin College of Business, Virginia Tech, 2026 ($7,500)
+- Pamplin Doctoral Summer Research Grant, Virginia Tech, 2026 ($7,500)
 - Ph.D. Summer Research Grant, Howard Feiertag Department of Hospitality and Tourism Management, Virginia Tech, 2024–2025 ($6,000 per summer)
 - Graduate Research and Teaching Assistantship, Howard Feiertag Department of Hospitality and Tourism Management, Pamplin College of Business, Virginia Tech, 2023–present
 
@@ -65,6 +65,7 @@ draft: false
 
 - Best Poster Award, Runner-Up, 2nd Workshop on Informatics, Data Science, and Economics in Hospitality and Tourism Research (WIDE-HTR), 2026
 - Inducted into The Honor Society of Phi Kappa Phi (top 10% of graduate students), Virginia Tech, 2026
+- CIRTL at Virginia Tech Associate Badge, 2026
 - Certification in Advanced Hospitality and Tourism Analytics (CAHTA), CoStar Group, 2026
 - Advanced Data Analytics Semi-Professional (ADsP), Korea Data Agency (K-DATA), 2023
 - Tourist Guide License, Korea Tourism Organization — English (2018); Indonesian (2019)
