@@ -65,7 +65,7 @@ draft: false
 
 - Best Poster Award, Runner-Up, 2nd Workshop on Informatics, Data Science, and Economics in Hospitality and Tourism Research (WIDE-HTR), 2026
 - Inducted into The Honor Society of Phi Kappa Phi (top 10% of graduate students), Virginia Tech, 2026
-- CIRTL at Virginia Tech Associate Badge, 2026
+- CIRTL at Virginia Tech Associate Teaching Program, 2026
 - Certification in Advanced Hospitality and Tourism Analytics (CAHTA), CoStar Group, 2026
 - Advanced Data Analytics Semi-Professional (ADsP), Korea Data Agency (K-DATA), 2023
 - Tourist Guide License, Korea Tourism Organization — English (2018); Indonesian (2019)
