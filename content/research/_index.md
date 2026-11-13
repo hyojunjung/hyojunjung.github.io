@@ -19,6 +19,8 @@ Behavioral economics and consumer decision-making; AI and technology-enabled ser
 
 ## Published Papers
 
+**[7]** Campayo, F., **Jung, H.**, Kim, Y. E., Sharma, A., Singal, M., & Nicolau, J. L. (in press). Mergers and acquisitions in tourism and hospitality: Winner's curse and ideological divergence. *Tourism Management*.
+
 **[6]** Campayo, F., **Jung, H.**, Kim, Y. E., & Nicolau, J. L. (in press). When crises strike the skies: Airline accidents as economic shocks. *Tourism Economics*.
 
 **[5]** **Jung, H.**, & Nicolau, J. L. (2026). Tourist satisfaction and travel expenditures: A reference-dependent behavioral economics perspective. *Annals of Tourism Research*, *119*, 104190. [DOI](https://doi.org/10.1016/j.annals.2026.104190)
@@ -36,15 +38,13 @@ Behavioral economics and consumer decision-making; AI and technology-enabled ser
 
 ## Manuscripts Under Review
 
-**[8]** **Jung, H.** (2026). The IKEA effect in tourism: The role of pre-trip analytical planning in the formation of tourist satisfaction. Under review at *Tourism Management Perspectives*.
+**[7]** **Jung, H.** (2026). The IKEA effect in tourism: The role of pre-trip analytical planning in the formation of tourist satisfaction. Under review at *Tourism Management Perspectives*.
 
-**[7]** **Jung, H.**, & Nicolau, J. L. (2026). Asymmetric effects of customer satisfaction on firm value: Loss aversion across tourism business models. Under review at *Journal of Travel Research*.
+**[6]** **Jung, H.**, & Nicolau, J. L. (2026). Asymmetric effects of customer satisfaction on firm value: Loss aversion across tourism business models. Under review at *Journal of Travel Research*.
 
-**[6]** **Jung, H.**, & Nicolau, J. L. (2026). Riding the wave together: Demand disclosures and firm value in the cruise industry. Under review at *International Journal of Hospitality Management*.
+**[5]** **Jung, H.**, & Nicolau, J. L. (2026). Riding the wave together: Demand disclosures and firm value in the cruise industry. Under review at *International Journal of Hospitality Management*.
 
-**[5]** **Jung, H.**, Campayo, F., Sellers, R., & Nicolau, J. L. (2026). Value of hotel strategic alliances: In search of boundary conditions. Under review at *Tourism Management Perspectives*.
-
-**[4]** Campayo, F., **Jung, H.**, Kim, Y. E., Sharma, A., Singal, M., & Nicolau, J. L. (2026). Mergers and acquisitions in tourism and hospitality: Winner's curse and ideological divergence. Revise and resubmit (3rd round) at *Tourism Management*.
+**[4]** **Jung, H.**, Campayo, F., Sellers, R., & Nicolau, J. L. (2026). Value of hotel strategic alliances: In search of boundary conditions. Under review at *Tourism Management Perspectives*.
 
 **[3]** Campayo, F., **Jung, H.**, & Nicolau, J. L. (2026). Only the paranoid survive? Vagueness as a boundary condition of CEO paranoia in hotels. Under review at *Tourism Management*.
 
