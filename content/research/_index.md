@@ -21,7 +21,7 @@ Behavioral economics and consumer decision-making; AI and technology-enabled ser
 
 **[7]** Campayo, F., **Jung, H.**, Kim, Y. E., Sharma, A., Singal, M., & Nicolau, J. L. (in press). Mergers and acquisitions in tourism and hospitality: Winner's curse and ideological divergence. *Tourism Management*.
 
-**[6]** Campayo, F., **Jung, H.**, Kim, Y. E., & Nicolau, J. L. (in press). When crises strike the skies: Airline accidents as economic shocks. *Tourism Economics*.
+**[6]** Campayo, F., **Jung, H.**, Kim, Y. E., & Nicolau, J. L. (in press). When crises strike the skies: Airline accidents as economic shocks. *Tourism Economics*. [DOI](https://doi.org/10.1177/13548166261507184)
 
 **[5]** **Jung, H.**, & Nicolau, J. L. (2026). Tourist satisfaction and travel expenditures: A reference-dependent behavioral economics perspective. *Annals of Tourism Research*, *119*, 104190. [DOI](https://doi.org/10.1016/j.annals.2026.104190)
 
